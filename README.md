@@ -17,3 +17,7 @@ program was launched from
 For best experience, add WgetHere.exe to path after compilation and add it to
 the context menu ([tutorial](http://www.howtogeek.com/howto/windows-vista/add-any-application-to-the-desktop-right-click-menu-in-vista/))
 so that it can be launched from anywhere
+
+## Screenshots
+
+![](http://i.imgur.com/7g1aJhW.png)
